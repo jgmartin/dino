@@ -19,3 +19,6 @@ spec/reports
 test/tmp
 test/version_tmp
 tmp
+src/.DS_Store
+src/du/du.ino
+status_checker.rb
